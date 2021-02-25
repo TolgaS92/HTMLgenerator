@@ -1,0 +1,23 @@
+{
+  "name": "HTMLgenerator",
+  "version": "1.0.0",
+  "description": "In this activity, you will build a command-line tool that generates an HTML portfolio page from user input.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TolgaS92/HTMLgenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TolgaS92/HTMLgenerator/issues"
+  },
+  "homepage": "https://github.com/TolgaS92/HTMLgenerator#readme",
+  "dependencies": {
+    "requirer": "0.0.4"
+  }
+}
