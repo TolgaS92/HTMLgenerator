@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/TolgaS92/HTMLgenerator#readme",
   "dependencies": {
+    "inquirer": "^7.3.3",
     "requirer": "0.0.4"
   }
 }
